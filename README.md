@@ -1,0 +1,2 @@
+# CheckRightsFilesWindows
+CheckRightsFilesWindows
